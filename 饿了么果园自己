@@ -1,6 +1,6 @@
 """
 cron: 3 3,9 * * *
-new Env('饿了么果园');
+new Env('饿了么果园自己');
 环境变量 elmck，助力变量 elmzlck
 需要接口
 """
